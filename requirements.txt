@@ -1,0 +1,6 @@
+aiogram
+aiosqlite
+python-dotenv
+pydantic
+pydantic-settings
+openai
